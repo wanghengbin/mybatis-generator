@@ -1,0 +1,5 @@
+mybatis-genetrator：通过maven插件生成mybatis所需配置文件的工具
+参考文章链接：
+http://mybatis.org/generator/running/runningWithMaven.html
+https://blog.csdn.net/isea533/article/details/42102297
+https://www.cnblogs.com/lixin-link/p/11524905.html
